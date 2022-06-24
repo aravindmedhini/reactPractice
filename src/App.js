@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import "./index.css";
 import Packege from "./Packege";
+import Parent from "./Parent";
+import { tournameContext, countContext } from "./AppContext";
 const App = () => {
   useEffect(() => {
     alert("WELCOME To Wonder Tour Please Select Your Packeges");
@@ -12,10 +14,15 @@ const App = () => {
       <h1 className="position-absolute top-0 start-50 translate-middle-x">
         SELECT YOUR PACKEGES
       </h1>
-      <span className="showselected position-absolute top-0 end-0">
-        <h3>{count} out of 6</h3>
-        <h5 className="content">{tourname}</h5>
-      </span>
+
+      {/* passing props using Context API */}
+
+      <tournameContext.Provider value={tourname}>
+        <countContext.Provider value={count}>
+          <Parent />
+        </countContext.Provider>
+      </tournameContext.Provider>
+
       <div className="mt-5 position-absolute top-50 start-0 translate-middle-y">
         <Packege
           name="WORLD_TOUR"

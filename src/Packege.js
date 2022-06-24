@@ -21,9 +21,6 @@ const Packege = (props) => {
                 }}>
                     Add Packege
                 </button>
-                {/* {places.map(title => {
-                    return <div key={title}>{title}</div>;
-                })} */}
 
             </div>
         </>
