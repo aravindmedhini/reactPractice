@@ -1,12 +1,7 @@
 import React, { useState } from 'react'
 import Axiosex from './Axiosex'
-
 import "./index.css"
 const Packege = (props) => {
-    // const handleclick = event => {
-    //     event.currentTarget.disabled = true;
-    //     console.log("button clicked")
-    // }
 
     const [disable, setdisable] = useState(false)
     return (

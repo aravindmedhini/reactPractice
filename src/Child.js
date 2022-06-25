@@ -6,7 +6,7 @@ const Child = () => {
     const tourcount = useContext(countContext);
     return (
         <span className="showselected position-absolute top-0 end-0">
-            <h3>{tourcount} out of 6</h3>
+            <h3>{tourcount} out of 5</h3>
             <h5 className="content">{tourname}</h5>
         </span>
     )

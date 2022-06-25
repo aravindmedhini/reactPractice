@@ -3,7 +3,6 @@ import "./index.css";
 import Packege from "./Packege";
 import Parent from "./Parent";
 import { tournameContext, countContext } from "./AppContext";
-import Axiosex from "./Axiosex";
 const App = () => {
   useEffect(() => {
     alert("WELCOME To Wonder Tour Please Select Your Packeges");
@@ -55,13 +54,6 @@ const App = () => {
         />
         <Packege
           name="PARIS"
-          show={(packname, incriment) => {
-            settourname(tourname + "  " + packname);
-            setcount(count + incriment);
-          }}
-        />
-        <Packege
-          name="HYDERABAD"
           show={(packname, incriment) => {
             settourname(tourname + "  " + packname);
             setcount(count + incriment);
