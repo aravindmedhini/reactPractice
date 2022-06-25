@@ -1,4 +1,6 @@
 import React, { useState } from 'react'
+import Axiosex from './Axiosex'
+
 import "./index.css"
 const Packege = (props) => {
     // const handleclick = event => {
@@ -15,13 +17,15 @@ const Packege = (props) => {
                         {props.name}
                     </p>
                 </div>
+                <div className='detailsbtn'>
+                    <Axiosex />
+                </div>
                 <button className='btn btn-info addbtn' disabled={disable} onClick={() => {
                     props.show(props.name, 1);
                     setdisable(true);
                 }}>
                     Add Packege
                 </button>
-
             </div>
         </>
     )
