@@ -1,0 +1,67 @@
+[
+    {
+        "id":"WORLD_TOUR",
+        "data":"Everyone dreams of having an international vacation once in their lifetime, be it with family or friends. Nothing can be better than looking at the world in a different way with our world tour packages from Indian cities. Visiting a foreign land lets you experience and explore different culture, tradition and get to know the locals better. If you are someone who is looking to have an eternal memory, then pay a visit to any of the foreign lands with our best world tour packages.",
+        "image":"https://wallpaperaccess.com/full/2592094.jpg"
+    },
+    {
+        "id":"INDIA",
+        "data":"India, the world’s 7th biggest country by area, and one of the oldest civilizations in the world, has lots to offer to the travellers around the world. Explore the diversity of incredible India with our India tour packages that let you explore the magnificence of nature; thrill of adventure; rich heritage; soul-soothing spirituality and vibrant culture. Come and explore the best of India with our Indian holiday packages.",
+        "image":"https://images.pexels.com/photos/5015403/pexels-photo-5015403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id":"UNITED_STATES",
+        "data":"The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. Midwestern metropolis Chicago is known for influential architecture and on the west coast, Los Angeles' Hollywood is famed for filmmaking.",
+        "image":"https://images.pexels.com/photos/6039244/pexels-photo-6039244.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"MALAYSIA",
+        "data":"Malaysia is a Southeast Asian country occupying parts of the Malay Peninsula and the island of Borneo. It's known for its beaches, rainforests and mix of Malay, Chinese, Indian and European cultural influences. The capital, Kuala Lumpur, is home to colonial buildings, busy shopping districts such as Bukit Bintang and skyscrapers such as the iconic, 451m-tall Petronas Twin Towers.",
+        "image":"https://images.pexels.com/photos/12281180/pexels-photo-12281180.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"PARIS",
+        "data":"Paris received 12.6 million visitors in 2020, measured by hotel stays, a drop of 73 percent from 2019, due to the COVID-19 virus. The number of foreign visitors declined by 80.7 percent. Museums re-opened in 2021, with limitations on the number of visitors at a time and a requirement that visitors wear masks.",
+        "image":"https://images.pexels.com/photos/460740/pexels-photo-460740.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"AUSTRALIA",
+        "data":"Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. With an area of 7,617,930 square kilometres, Australia is the largest country by area in Oceania and the world's sixth-largest country.",
+        "image":"https://images.pexels.com/photos/5707602/pexels-photo-5707602.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"MOSKO",
+        "data":"Moscow, on the Moskva River in western Russia, is the nation’s cosmopolitan capital. In its historic core is the Kremlin, a complex that’s home to the president and tsarist treasures in the Armoury. Outside its walls is Red Square, Russia's symbolic center. It's home to Lenin’s Mausoleum, the State Historical Museum's comprehensive collection and St. Basil’s Cathedral, known for its colorful, onion-shaped domes.",
+        "image":"https://images.pexels.com/photos/753339/pexels-photo-753339.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"TOKYO",
+        "data":"The capital of Japan is an incredible city. A megalopolis of insane proportions, this truly is the home of bright lights and skyscrapers, underground shopping malls and multi-floor arcades, serene temples and quaint noodle bars – all connected by countless trains.",
+        "image":"https://images.pexels.com/photos/96422/pexels-photo-96422.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"BERLIN",
+        "data":"Berlin, Germany’s capital, dates to the 13th century. Reminders of the city's turbulent 20th-century history include its Holocaust memorial and the Berlin Wall's graffitied remains. Divided during the Cold War, its 18th-century Brandenburg Gate has become a symbol of reunification. The city's also known for its art scene and modern landmarks like the gold-colored, swoop-roofed Berliner Philharmonie, built in 1963",
+        "image":"https://images.pexels.com/photos/1128424/pexels-photo-1128424.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"HYDERABAD",
+        "data":"Hyderabad is the capital of southern India's Telangana state. A major center for the technology industry, it's home to many upscale restaurants and shops. Its historic sites include Golconda Fort, a former diamond-trading center that was once the Qutb Shahi dynastic capital. The Charminar, a 16th-century mosque whose 4 arches support towering minarets, is an old city landmark near the long-standing Laad Bazaar.",
+        "image":"https://images.pexels.com/photos/9373357/pexels-photo-9373357.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"NAIROBI",
+        "data":"Nairobi is Kenya’s capital city. In addition to its urban core, the city has Nairobi National Park, a large game reserve known for breeding endangered black rhinos and home to giraffes, zebras and lions. Next to it is a well-regarded elephant orphanage operated by the David Sheldrick Wildlife Trust. Nairobi is also often used as a jumping-off point for safari trips elsewhere in Kenya.",
+        "image":"https://images.pexels.com/photos/7539893/pexels-photo-7539893.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"CANYA",
+        "data":"Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands. It's also home to wildlife like lions, elephants and rhinos. From Nairobi, the capital, safaris visit the Maasai Mara Reserve, known for its annual wildebeest migrations, and Amboseli National Park, offering views of Tanzania's 5,895m Mt. Kilimanjaro",
+        "image":"https://images.pexels.com/photos/12487154/pexels-photo-12487154.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    },
+    {
+        "id":"JAPAN",
+        "data":"Japan is an island country in East Asia. It is situated in the northwest Pacific Ocean, and is bordered on the west by the Sea of Japan, while extending from the Sea of Okhotsk in the north toward the East China Sea, Philippine Sea, and Taiwan in the south.",
+        "image":"https://images.pexels.com/photos/2506923/pexels-photo-2506923.jpeg?auto=compress&cs=tinysrgb&w=1600"
+    }
+]
